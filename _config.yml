@@ -130,7 +130,7 @@ pagination:
  enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -208,6 +208,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - example_posts
 keep_files:
   - CNAME
   - .nojekyll
