@@ -38,6 +38,11 @@ We've identified three main audiences, each:
   * Enthusiasts: Jetbot
 * Small and light (fits in backpack)
 
+### User Experience
+* App creates framework to ingest sensor data into user model and output hardware actions
+* User supplies their own model and plan
+* There will be an API for users to control the hardware
+* Examples and default model will exist for education
 
 ### Milestones
 * 
