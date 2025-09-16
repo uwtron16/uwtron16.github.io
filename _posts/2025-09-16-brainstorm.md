@@ -8,6 +8,8 @@ categories:
 featured: false
 ---
 
+[Slide Deck](https://docs.google.com/presentation/d/1MK3NAMNFReJD505L2IjzjQk_6Pu7HSdOc4ahH0z3O6U/edit?usp=sharing)
+
 ## Proper Need Statement/Analysis
 **Problem Statement**: The current barrier-of-entry for autonomous mobile robotics is too high.
 
