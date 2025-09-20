@@ -13,14 +13,6 @@ featured: false
 ## Proper Need Statement/Analysis
 **Problem Statement**: The current barrier-of-entry for autonomous mobile robotics is too high.
 
-We've identified three main audiences, each:
-  1. University-level research/teaching: Existing solutions like Turtlebot are expensive and not n
-  2. Capability
-  3. 
-- Specific barriers:
-  - Price: 
-
-
 ### Target Audience
 * Professor Soo Jeon - MTE544, university-level course
 * Enthusiasts
