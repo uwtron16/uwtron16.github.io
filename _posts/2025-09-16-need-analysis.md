@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brainstorm
+title: Needs Analysis and Principles
 date: 2025-09-16 14:52:00
 description: Brainstorm and Needs Analysis
 tags:
