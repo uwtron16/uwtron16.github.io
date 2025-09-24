@@ -28,3 +28,6 @@ From OpenBot paper:
 <div class="caption">
     Comparison of wheeled robotic platforms from OpenBot paper.
 </div>
+
+Testimonials:
+- (Anecdotal from Kai) On exchange term at HKUST, the school only had five Turtlebots, so the AMR class had to create many lab sections and make groups with large amounts of people.
