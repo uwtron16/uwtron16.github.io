@@ -31,3 +31,8 @@ From OpenBot paper:
 
 Testimonials:
 - (Anecdotal from Kai) On exchange term at HKUST, the school only had five Turtlebots, so the AMR class had to create many lab sections and make groups with large amounts of people.
+- [Why ROS, wherefore base? (A cost/benefit analysis request) - GoPiGo - Modular Robotics Forum](https://forum.dexterindustries.com/t/why-ros-wherefore-base-a-cost-benefit-analysis-request/9123/9): "Giant void in the educational ROS platform market", TurtleBot is state-of-the-art for ROS-based solution (good ecosystem) but too expensive
+- [Barriers and Facilitators of Robot-Assisted Education in Higher Education: A Systematic Mixed-Studies Review](https://link.springer.com/article/10.1007/s10758-022-09637-3): Hardware and software issues (cost, limitations, maintenance) are among the barriers to deploying robots in higher education
+- [Educational Robot Market Size, Share & Growth Report, 2031](https://www.alliedmarketresearch.com/educational-robot-market-A31331): "The high costs associated with educational robots are one of the prime factors that restrain the educational robot market outlook"
+- [The Design and Implementation of a Cost-effective Educational Robotics Platform for affordable ROS Based Mechatronics and Robotics Labs](https://juniperpublishers.com/raej/pdf/RAEJ.MS.ID.555677.pdf): “Affordable robots with poor quality” vs “highly capable platforms that are prohibitively expensive.”
+- [Tiny Robot Learning: Challenges and Directions for Machine Learning in Resource-Constrained Robots](https://arxiv.org/abs/2205.05748): Low-cost robots are constrained by SWAP (size, weight, area, power) and limited sensors/compute
